@@ -30,18 +30,25 @@ function IndexPage() {
       <div className={'content'}>
         <h1>Procrastination Hub</h1>
         <h3>"Just do it, later."</h3>
+        <div class = "signUpBox">
         <p><b>Username</b></p>
         <div class="stroke">
         <input type="text" id="firstName" name="lastName"></input>
         </div>
         <p><b>Password</b></p>
         <input type={showPassword? "text": "password"} id="passwordInput"></input>
-        <br></br><input type="checkbox" onClick={() => {setShowPassword(!showPassword)}}></input>
-        Show Password<br></br>
+        <br></br>
+        <span>
+        <input type="checkbox" onClick={() => {setShowPassword(!showPassword)}}/>Show Password
+        </span>
         {/* Xavier change this to the next page please */}
         <a href={'/another'}>
-        <Button buttonText={'Sign In'} clickAction={signIn}/>
+        <Button buttonText= 'Sign In' clickAction={signIn}/>
         </a>
+        <a href={'/another'}>
+        <Button buttonText= 'Sign Up' clickAction={signIn}/>
+        </a>
+        </div>
       </div>
       <div className={'spacer'} />
     </div>

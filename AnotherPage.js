@@ -6,7 +6,7 @@ function signUp() {
 }
 
 function AnotherPage() {
-  const [showPassword, setShowPassword] = useState(false)
+  const [showPassword] = useState(false)
   return (
     <div class="body">
       <h1>Sign Up</h1>
