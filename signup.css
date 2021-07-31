@@ -1,0 +1,10 @@
+.signUpBox {
+    background-color: rgb(255, 123, 0);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 5rem;
+    margin-top: 30px;
+    padding: 1.5rem;
+    border-radius: 10px;
+    align-items: center;
+}
