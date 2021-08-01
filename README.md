@@ -18,6 +18,7 @@ The topic of the hackathon was "Pro-crastination" and was up to interpretation b
 * Download GitHub files
 * Install npm dependencies
 * Start backend and frontend
+* Website is accessible at http://localhost:3000/
 ```
 npm install
 
