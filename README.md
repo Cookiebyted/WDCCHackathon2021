@@ -4,7 +4,17 @@ MERN stack web application made during the 31st July - 1 August WDCCxSESA Hackat
 
 ## Description
 
-The topic of the hackathon was "Pro-crastination" and was up to interpretation by us. Our group named "The Five Musketeers", we created a web application that efficiently escalated procrastination for productive students. 
+The topic of the hackathon was "Pro-crastination" and was up to interpretation by us. Our group named "The Five Musketeers", we created a web application that efficiently escalated procrastination for productive students.
+
+Users have a timer going for x amount of time, signalling how long they need to work and be productive.
+After the timer goes up, the user can enjoy an 'unlimited' period of procrastination where they have quick access links to the frontpages of social medias and streaming websites. They cannot go back to work mode after that and must restart the web app in order to get back into focussed work mode.
+
+## Future plans:
+* Restrict other educational productive websites
+* Improve the UI/UX aspects
+* Connect backend to frontend
+* Deploy web app onto the cloud
+* Implement Auth0 and social media APIs
 
 ## Getting Started
 
