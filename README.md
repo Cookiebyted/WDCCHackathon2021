@@ -28,7 +28,7 @@ cd frontend
 npm start
 ```
 
-## Authors
+## Contributors
 
 Matthew Young
 https://www.linkedin.com/in/matthewyoungnz/
