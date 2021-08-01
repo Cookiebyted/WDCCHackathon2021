@@ -1,6 +1,6 @@
 # WDCCxSESA Hackathon 2021
 
-MERN stack web application made during the 31st July - 1 August WDCCxSESA Hackathon.
+MERN stack web application made during the 31st July - 1 August WDCCxSESA Hackathon at gridAKL.
 
 ## Description
 
@@ -19,6 +19,8 @@ The topic of the hackathon was "Pro-crastination" and was up to interpretation b
 * Install npm dependencies
 * Start backend and frontend
 ```
+npm install
+
 cd backend
 npm start
 
